@@ -4,9 +4,9 @@
 - 🌱 Aprendendo programação: web (HTML, CSS e JavaScript) e Pyhon
 - 👯 Estudo no Instituto Federal do Maranhão (IFMA)
 - 🤔 Estou a procura de experiências na área de TI
-- 📫 Meu E-mail: caioguilhermearaujosousa@gmail.com
+- 📫 Meu Gmail: caioguilhermearaujosousa@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa)](https://github.com/CaioAraujoSousa)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa&show_icons=true&theme=radical)](https://github.com/CaioAraujoSousa)
 
 <div> 
   <a href="https://www.instagram.com/caioaraujo.sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
