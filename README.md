@@ -6,7 +6,7 @@
 - 🤔 Estou a procura de experiências na área de TI
 - 📫 Meu E-mail: caioguilhermearaujosousa@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa)](https://github.com/CaioAraujoSousa)
 
 <div> 
   <a href="https://www.instagram.com/caioaraujo.sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
