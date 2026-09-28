@@ -1,7 +1,7 @@
 ## Olá, eu sou o Caio👋:
 
 - 🔭 Procurando desenvolver meus conhecimentos a cada dia!
-- 🌱 Aprendendo programação: web (HTML, CSS e JavaScript) e Pyhon
+- 🌱 Aprendendo programação: Pyhon, análise de dados e IA
 - 📚 Estudo no Instituto Federal do Maranhão (IFMA)
 - 🤔 Estou a procura de experiências na área de TI
 - 📫 Meu Gmail: cgaraujosousa2@gmail.com
