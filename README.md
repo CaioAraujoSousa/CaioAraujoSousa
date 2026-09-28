@@ -4,7 +4,7 @@
 - 🌱 Aprendendo programação: web (HTML, CSS e JavaScript) e Pyhon
 - 📚 Estudo no Instituto Federal do Maranhão (IFMA)
 - 🤔 Estou a procura de experiências na área de TI
-- 📫 Meu Gmail: caioguilhermearaujosousa@gmail.com
+- 📫 Meu Gmail: cgaraujosousa2@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa&show_icons=true&theme=radical)](https://github.com/CaioAraujoSousa)
 
