@@ -45,7 +45,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=CaioAraujoSousa&theme=dark&locale=pt-br&v=2) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAraujoSousa&layout=compact&theme=dark&locale=pt-br&v=2)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&theme=dark&locale=pt-br" height="165" alt="Estatísticas do GitHub"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioAraujoSousa&layout=compact&theme=dark&locale=pt-br" height="165" alt="Linguagens mais utilizadas"/>
+</div>
 
 ---
 
@@ -58,14 +61,4 @@
   <a href="mailto:cgaraujosousa2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioAraujoSousa/CaioAraujoSousa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioAraujoSousa/CaioAraujoSousa/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/CaioAraujoSousa/CaioAraujoSousa/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
