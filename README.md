@@ -1,10 +1,10 @@
 # Olá, eu sou o Caio! 👋
 
 <div align="center">
-  <h3>Estudante de Ciência da Computação | Foco em Dados & IA</h3>
-  
+  <h3>Ciência da Computação | Dados & IA</h3>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Explorando+Python+e+An%C3%A1lise+de+Dados;Interesse+em+IA+e+Machine+Learning" alt="Animação de apresentação" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvimento+Python+%26+An%C3%A1lise+de+Dados;Automa%C3%A7%C3%A3o+de+Processos+%26+SQL;Explorando+IA+%26+Machine+Learning" alt="Animação de apresentação" />
   </a>
 </div>
 
@@ -12,24 +12,23 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** no Instituto Federal do Maranhão (IFMA).
-- 🐍 Grande interesse em **Python** e no ecossistema de análise e processamento de dados.
-- 📊 Praticando e desenvolvendo soluções com **Pandas, NumPy, SQL e Excel**.
-- 🤖 Interessado em **Inteligência Artificial, Machine Learning e automação**.
-- 📚 Sempre buscando aprender, experimentar e desenvolver novas habilidades.
+- 🎓 Graduando em **Ciência da Computação** no Instituto Federal do Maranhão (IFMA).
+- 🐍 Desenvolvimento focado no ecossistema **Python** e **Análise de Dados**.
+- 📊 Manipulação e visualização de dados utilizando **Pandas, NumPy, SQL e Excel**.
+- 🤖 Estudando **Machine Learning, Inteligência Artificial e automação**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-**🐍 Linguagens & Foco Principal**
+**Linguagens & Foco Principal**
 <div>
   <img src="https://skillicons.dev/icons?i=python,sqlite" alt="Python e SQLite"/>
 </div>
 
 <br>
 
-**📊 Análise de Dados & Ambiente de Ciência**
+**Análise de Dados & Ecossistema**
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -41,14 +40,14 @@
 
 <br>
 
-**💻 Tecnologias já utilizadas / Conhecimento de base**
+**Conhecimento de Base & Outras Linguagens**
 <div>
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js" alt="C, Java, HTML, CSS e JavaScript"/>
 </div>
 
 <br>
 
-**🔧 Ferramentas de Desenvolvimento & Design**
+**Ambiente de Desenvolvimento**
 <div>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" alt="VS Code, Git, GitHub e Figma"/>
 </div>
