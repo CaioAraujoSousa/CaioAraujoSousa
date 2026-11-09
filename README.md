@@ -28,13 +28,11 @@
 
 <br>
 
-**Análise de Dados & Ferramentas**
+**Análise de Dados & Bibliotecas**
 <div align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </div>
 
 <br>
@@ -48,7 +46,8 @@
 
 **Ambiente de Desenvolvimento & IDEs**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" alt="VS Code, Git, GitHub e Figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,jupyter" alt="VS Code, Git, GitHub, Figma e Jupyter"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48" alt="Google Colab"/>
 </div>
 
 ---
