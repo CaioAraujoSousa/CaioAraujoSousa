@@ -43,11 +43,46 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub (Comparação de Temas)
 
+**1. Dracula**
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&theme=dark&locale=pt-br" height="165" alt="Estatísticas do GitHub"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaioAraujoSousa&layout=compact&theme=dark&locale=pt-br" height="165" alt="Linguagens mais utilizadas"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=dracula" height="165" alt="Estatísticas Dracula"/>
+</div>
+
+<br>
+
+**2. Tokyo Night**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=tokyonight" height="165" alt="Estatísticas Tokyo Night"/>
+</div>
+
+<br>
+
+**3. Radical**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=radical" height="165" alt="Estatísticas Radical"/>
+</div>
+
+<br>
+
+**4. Nord**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=nord" height="165" alt="Estatísticas Nord"/>
+</div>
+
+<br>
+
+**5. Gruvbox**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=gruvbox" height="165" alt="Estatísticas Gruvbox"/>
+</div>
+
+<br>
+
+**6. Vue Dark**
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CaioAraujoSousa&show_icons=true&locale=pt-br&theme=vue-dark" height="165" alt="Estatísticas Vue Dark"/>
 </div>
 
 ---
